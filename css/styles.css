@@ -1,0 +1,25 @@
+body {
+  background-color: #81cefa;
+}
+h2 {
+  color: #777;
+}
+h3 {
+  text-decoration: underline;
+}
+.megan {
+  height: 200px;
+  border-radius: 50%;
+  float:right;
+  padding-left: 1px;
+  margin: 1px;
+}
+.Bichael {
+  transform: rotate(90deg);
+  Height:100px;
+  padding-top: 10px;
+}
+.text-muted {
+  border-style: groove;
+  border-top: 5px;
+}
